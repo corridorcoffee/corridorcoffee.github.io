@@ -1,0 +1,34 @@
+body {
+    background: #c18a72;
+    position: fixed;
+}
+
+h2 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 300;
+    color: white;
+    font-size: 20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 50%;
+}
+
+.navigation-menu {
+    margin-top: 50px;
+    display: flex;
+    height: 60px;
+    justify-content: center;
+}
+
+.navigation-menu h2 {
+    padding: 20px;
+}
